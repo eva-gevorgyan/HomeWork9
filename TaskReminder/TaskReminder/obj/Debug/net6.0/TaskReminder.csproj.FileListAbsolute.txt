@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\bin\Debug\net6.0\TaskReminder.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\bin\Debug\net6.0\TaskReminder.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\bin\Debug\net6.0\TaskReminder.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\bin\Debug\net6.0\TaskReminder.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\bin\Debug\net6.0\TaskReminder.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\obj\Debug\net6.0\TaskReminder.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\obj\Debug\net6.0\TaskReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\obj\Debug\net6.0\TaskReminder.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\obj\Debug\net6.0\TaskReminder.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\obj\Debug\net6.0\TaskReminder.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\obj\Debug\net6.0\TaskReminder.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\obj\Debug\net6.0\refint\TaskReminder.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\obj\Debug\net6.0\TaskReminder.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\obj\Debug\net6.0\TaskReminder.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\TaskReminder\TaskReminder\obj\Debug\net6.0\ref\TaskReminder.dll
